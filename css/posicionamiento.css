@@ -1,0 +1,15 @@
+div{
+width:100px;
+height:100px;
+background:#3366FF;
+color:#FFFFFF;
+font-size:30px;
+}
+.caja{
+position:fixed;
+top:100;
+bottom:0;
+right:0;
+left:300px;
+}
+

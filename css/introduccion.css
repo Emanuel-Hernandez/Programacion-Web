@@ -1,0 +1,19 @@
+/* CSS Document */
+h1,h2{
+color:#FF0000;
+}
+h1{
+font-size:60px;
+}
+h2{
+font-size:40px;
+}
+p{
+color:#0033FF;
+}
+span{
+font-size:30px;
+}
+.yellow{
+color:#33FF00;
+}
